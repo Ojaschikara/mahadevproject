@@ -185,8 +185,13 @@ h2{
     text-align: center;
 }
 .contact>.google{
-    padding-top: 15%;
+    padding-top: 10%;
+   
     /* transition: 0.5s; */
+}
+.google img{
+    width: 200px;
+    /* height: 100px; */
 }
 
 
